@@ -28,10 +28,36 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
 						- 12 faces not detected.
   
 					    | ACCURACY = 80/92 = 86.95% |
-![Perc](/img/perc.JPG)				
-			
+![Perc](/img/perc.JPG)	
+
+**Figuere 1.** *Percentages of the Dlib and App tests.* 			
  
  The system also extracts a [.txt file](https://www.dropbox.com/s/oqz4kxj6oj976oq/landmarks.txt?dl=0) with the landmarks of each point of the face detection. Genika worked on a simple Matlab code studying the way to modify the presentation of these landmarks and make a proper use of them, so later it would be used in the 3D Meshing stage.
+ 
+ ```matlab
+ function landmarkplot = landmarkplot2();
+filename = fullfile('landmarks.txt');
+ fileID = fopen(filename);
+ C = textscan(fileID,'%f %s %s','Delimiter','.');
+ index = C{1}, landmarks = C{2};
+ 
+ xvector=zeros(68,1);
+ yvector=zeros(68,1);
+ for i=1:68
+ celda=strjoin(landmarks(i,1));
+ celda= strrep(celda,'Point(','');
+ celda= strrep(celda,')', '' );
+ celda = strsplit(celda, ',');
+ X = celda{1}, Y = celda{2};
+ X = str2num(X);
+ Y = str2num(Y);
+ xvector(i,1)=X;
+ yvector(i,1)=Y;
+ end
+ scatter(xvector,yvector);
+end
+```
+
  
  # Stage 3 - 3D Meshing
  
