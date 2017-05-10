@@ -1,8 +1,0 @@
-third_party/OpenCV*
-third_party/opencv*
-*.swp
-obj/
-!./jni/opencv/*
-*.bin
-/travis-ci/android-ndk
-libs/
