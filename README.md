@@ -24,12 +24,12 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
 	
 ### Results
 	From 92 desirable faces to detect:
-				-	80 faces detected.
+				- 80 faces detected.
 				- 12 faces not detected.
 				
-			ACCURACY = 80/92 = 86.95%
+			| ACCURACY = 80/92 = 86.95% |
 				
-[Perc%](/img/perc.JPG)
+![Perc](/img/perc.JPG)
  
  The system also extracts a [.txt file](https://www.dropbox.com/s/oqz4kxj6oj976oq/landmarks.txt?dl=0) with the landmarks of each point of the face detection. Genika worked on a simple Matlab code studying the way to modify the presentation of these landmarks and make a proper use of them, so later it would be used in the 3D Meshing stage.
  
