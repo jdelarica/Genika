@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/christian/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.5/39a8ff2d1f79267907f5573c090b342b040b9682/aspectjrt-1.8.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39a8ff2d1f79267907f5573c090b342b040b9682">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/aspectjrt-1.8.5_619e92318edd2b92459dcef29244ddb2d65a6518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_121f8481d491877a4027978b21079c5ab5608ffe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6377e89df27b5b56389f647f6a733fc2f2049bc2">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5dddb53f649ad31b681e12063814301a78ef32dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_5b6adb2f3074fd38c8d325c7d305ec9178bfb139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/4.0.0/8ef59050fdc527130b8f1f5689164a1ec0ebc13c/androidannotations-api-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ef59050fdc527130b8f1f5689164a1ec0ebc13c">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidannotations-api-4.0.0_5368621d31de736bfc841956d56f438b96e27dc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.jakewharton.hugo/hugo-runtime/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.hugo-hugo-runtime-1.2.1_a8fa37fb6efa39bf64c236d3089b5646e8ed1f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_aa6a23b61d57949d1b760df0c3e241719bc21d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_cc8d9364e307845c1f9f0fcd552efb46046c552c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a498715de525286822e1b624d97c2ef191747f8">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c6e7a7d368b7531f401019e425ed312769e7e85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.2.0_3ace24931d6581dd57ae363313cc227fbfe0346c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_3379ed8bb1a7a159b4f5c5aab8c82098e91905d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_f692de62d5c13af2a3430c7c3abd18ce9b1cf76f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="70036e565f7b7e4345e788ee814e91dd15c4d76e">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.dexafree-materiallist-3.0.1_8337877ddbd3b499fb4e136cc074e62240508944/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_577452fa55d3149de9eaf58a7b81299732a86257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d91bac0048850ccf5deefc9b2cfa06fb20a55a82">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b7d7ee61257893aa848004a1383eb65c719cf7d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_d7cb50be073097409512164307aaa60f25706249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/.gradle/caches/modules-2/files-2.1/com.jakewharton.hugo/hugo-annotations/1.2.1/b01150795c5cdca1eb7e501bf00f105ff0e31501/hugo-annotations-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/hugo-annotations-1.2.1_55aec08b3732e130451aca31fa4ecc247c160406/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_2aaaf94a014ef4d97dae66d31bd669375bac8c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.2.0_a3ba850bd0aa6fed568b8d1de7ca4be6f460e992/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.jakewharton.hugo/hugo-runtime/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.hugo-hugo-runtime-1.2.1_c2de473c425e0ffa11a0b449eb430f7ec1d08446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_9284a3e5805bc9deb30c54e3a6d5f1cfe82b83a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_e2d96ed1a9d369612b6bf446731dfe44533f2f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_2497841bc81e47b0a3002d1363112859d600dd82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_74fbedffef0f15d375d1f887460427f63dc2126e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="70036e565f7b7e4345e788ee814e91dd15c4d76e">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.dexafree-materiallist-3.0.1_b246dc8b126ba3ec2ae62cd43ebd5e33117b1f53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_99e50a55d7512e4778a3356c9b11ad23877f4097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_880fe8ba10641c905987cdf2d59a704293eed306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="895469cde88be378897773df87d3c1d960f077d7">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7489f0598ff5352fb6c4efc3d1fbae99f0462c29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/christian/Desktop/Universidad/PAE/dlib-android GENIKA/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_5045cb4cdb12a6e2826bcfcc70e8d46f371436a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/christian/Downloads/dlib-android/androidstudio-examples/dlib-android-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_4f8a616679dd38bfeda14486220f42045cf8167b/classes.dex" />
+    </item>
+
+</items>
