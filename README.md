@@ -64,6 +64,9 @@ end
  
  # Stage 3 - 3D Meshing
  
+ From the 68 landmarks detected in the images, the team wants to extract these points and place them in a 3D Model in such a way that the image fits into it. The team has designed a 3D model using [Blender](https://www.blender.org/). Blender is an open source 3D creation suite that supports the entirety of the 3D pipeline-modeling, animation and simulation.
+ Genika computed an Android Application which shows the 3D model and it allows to load the images into the model.
  
+ # Stage 4 - Integration
  
  
