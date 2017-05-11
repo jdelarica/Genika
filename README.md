@@ -17,7 +17,7 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  The team computed an Android Application that has access to the main and the frontal camera. The App has also a GET AVATAR button, which takes a picture and saves it, so later it computes the avatar and shows it on the device's screen.
  The team has also computed the main page of the Android Application with a simple Login page, a button tu directly open the frontal camera and a link to Genika's website with the logo.
  
- ![App-1](/img/App-1.jpeg) ![App-2](/img/App2-jpeg)
+ ![App-1](/img/App1.jpg) ![App-2](/img/App2.jpg)
  
  # Stage 2 - Face Detection
  
@@ -91,7 +91,7 @@ end
  From the 68 landmarks detected in the images, the team wants to extract these points and place them in a 3D Model in such a way that the image fits into it. The team has designed a 3D model using [Blender](https://www.blender.org/). Blender is an open source 3D creation suite that supports the entirety of the 3D pipeline-modeling, animation and simulation.
  Genika computed an Android Application which shows the 3D model and it allows to load the images into the model.
  
- ![3Dmodel](/img/3Dmodel.JPG) ![3Dmodel1](/img/3Dmodel1.jpeg)
+ ![3Dmodel](/img/3Dmodel.JPG) ![3Dmodel1](/img/3Dmodel1.jpg)
  # Stage 4 - Integration
  
  
