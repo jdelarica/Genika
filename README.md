@@ -59,6 +59,7 @@ end
 ```
 
 ![68landmarks](/img/landmarks.JPG)
+
  **Figure 2.** *Landmarks detection and classification.* 
  
  # Stage 3 - 3D Meshing
