@@ -25,7 +25,7 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  The system detects the faces even if they are dark, and even if the person wars glasses or the picture is blurry or Black and White.
 	
 ### Results
-					From 92 desirable faces to detect:
+					   From 92 desirable faces to detect:
 						- 80 faces detected.
 						- 12 faces not detected.
   
