@@ -92,6 +92,7 @@ end
  Genika computed an Android Application which shows the 3D model and it allows to load the images into the model.
  
  ![3Dmodel](/img/3Dmodel.JPG) ![3Dmodel1](/img/3Dmodel1.jpg)
+ 
  # Stage 4 - Integration
  
  
