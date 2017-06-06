@@ -63,5 +63,8 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  
  [Landmarks Research](https://github.com/jdelarica/Genika/tree/master/Matlab%20research)
  
+ 
+ __________________________________________
  Genika Team ©, 2017 
+ 
  [Genika](genikateam.weebly.com)
