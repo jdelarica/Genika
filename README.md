@@ -55,6 +55,8 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  
  Application Code:
  
+ [Face Detection App](https://www.dropbox.com/sh/mx6akrtyachcqol/AADTEU2w56I03wcjTfBWTIepa?dl=0)
+ 
  
  Research Code:
  
