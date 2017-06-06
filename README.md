@@ -48,6 +48,7 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  
  ![3Dmodel](/img/3Dmodel.JPG) ![3Dmodel1](/img/3Dmodel1.jpg)
  
+ **Figure 3.** *3D Meshing and basic 3D Model.*
  # Stage 4 - Integration
  
  Genika computed an Android Application in which all the software works for the same Application. This Application has been tested in different Android devices in order to test the proper functionality and all the code is available:
@@ -62,3 +63,5 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  
  [Landmarks Research](https://github.com/jdelarica/Genika/tree/master/Matlab%20research)
  
+ Genika Team ©, 2017 
+ [Genika](genikateam.weebly.com)
