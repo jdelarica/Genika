@@ -65,6 +65,4 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  
  
  __________________________________________
- Genika Team ©, 2017 
- 
- [Genika](genikateam.weebly.com)
+ [Genika Team](genikateam.weebly.com) ©, 2017 
