@@ -58,5 +58,5 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  
  Research Code:
  
- [Landmarks Researcg](https://github.com/jdelarica/Genika/tree/master/Matlab%20research)
+ [Landmarks Research](https://github.com/jdelarica/Genika/tree/master/Matlab%20research)
  
