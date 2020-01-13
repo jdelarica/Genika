@@ -15,7 +15,7 @@ It is going to be explained below what [Genika](http://genikateam.weebly.com) ha
  # Stage 1 - Android
  
  The team computed an Android Application that has access to the main and the frontal camera. The App has also a GET AVATAR button, which takes a picture and saves it, so later it computes the avatar and shows it on the device's screen.
- The team has also computed the main page of the Android Application with a simple Login page, a button tu directly open the frontal camera and a link to Genika's website with the logo.
+ The team has also computed the main page of the Android Application with a simple Login page, a button to directly open the frontal camera and a link to Genika's website with the logo.
  
  ![App-1](/img/App1.jpg) ![App-2](/img/App2.jpg)
  
